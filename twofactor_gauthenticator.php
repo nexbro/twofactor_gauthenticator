@@ -5,7 +5,7 @@
  *
  * This RoundCube plugin adds the 2-step verification(OTP) to the login proccess
  *
- * @version 2.0.0
+ * @version 2.0.1
  * @author Alexandre Espinosa <aemenor@gmail.com>
  *
  * Some ideas and code: Ricardo Signes <rjbs@cpan.org>, Ricardo Iván Vieitez Parra (https://github.com/corrideat), Justin Buchanan (https://github.com/jusbuc2k)

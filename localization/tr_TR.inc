@@ -13,7 +13,7 @@ $labels['msg_infor'] = 'İki faktörlü doğrulama için Android veya IOS İşle
 Android : <a href="https://play.google.com/store/apps/details?id=app.openauthenticator" target="_blank">Uygulamaya git</a><br>
 IOS : <a href="https://apps.apple.com/us/app/open-authenticator-by-skyost/id6479272927" target="_blank">Uygulamaya git</a>';
 
-$labels['msg_help'] = '<a href="https://github.com/alexandregz/twofactor_gauthenticator/tree/master?tab=readme-ov-file#usage" target="_blank">Kullanıcı kılavuzu</a>';
+$labels['msg_help'] = '<a href="https://github.com/nexbro/twofactor_gauthenticator/tree/master?tab=readme-ov-file#usage" target="_blank">Kullanıcı kılavuzu</a>';
 
 $labels['show_secret'] = 'Gizli Kodu Göster';
 $labels['hide_secret'] = 'Kodu Gizle';

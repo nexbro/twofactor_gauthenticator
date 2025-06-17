@@ -11,7 +11,7 @@ $labels['two_step_verification_form'] = 'Двоетапна аутентифік
 $labels['secret'] = 'Ключ';
 $labels['qr_code'] = 'QR-код';
 $labels['msg_infor'] = 'Ви можете відсканувати цей QR-код із двофакторними налаштуваннями за допомогою програми, сумісної з TOTP, наприклад <a href="https://github.com/google/google-authenticator" target="_blank">google-authenticator</a>: <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2" target="_blank">Android</a>, <a href="https://apps.apple.com/app/google-authenticator/id388497605" target="_blank">iOS</a>';
-$labels['msg_help'] = '<a href="https://github.com/alexandregz/twofactor_gauthenticator/tree/master?tab=readme-ov-file#usage" target="_blank">Посібник користувача</a>';
+$labels['msg_help'] = '<a href="https://github.com/nexbro/twofactor_gauthenticator/tree/master?tab=readme-ov-file#usage" target="_blank">Посібник користувача</a>';
 
 $labels['show_secret'] = 'Показати ключ';
 $labels['hide_secret'] = 'Сховати ключ';
